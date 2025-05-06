@@ -12,4 +12,10 @@ I created this assembly in my freshman year of high school as a way to test my a
   - This will probably slow down your computer. It's 1000 parts of chaos and everything is probably one bad mate away from just exploding.
   - This uses parts from the Solidworks toolbox and tutorial folders. These are just parts that came with the program, and them being in the assembly doesn't really neccesitate me using them at any point. As such, I have attached a "minimalist" version that contains only the parts that I have worked on.
   - If you want to go back and see what all of this came from, you can just suppress every component in reverse chronological order. Each part was added one after the other, so you shouldn't run into any issues with this.
-  - This assembly uses the models for a high-flow 3D printer hotend made by Sandman on GrabCad ([https://grabcad.com/library/phaetus-rapido-hf-hotend-1](url)), a bed leveling sensor by Findusdwarf ([https://grabcad.com/library/cr-touch-dummy-1](url)), and a 3D printer extruder by anderfogel, also on GrabCad. ([https://grabcad.com/library/bmg-extruder-2](url)). It also uses parts from the solidworks tutorials and toolbox. All rights to these parts go to their respective owners.
+  - This assembly uses the models for the following:
+      - High-flow 3D printer hotend made by Sandman on GrabCad ([https://grabcad.com/library/phaetus-rapido-hf-hotend-1](url))
+      - Bed leveling sensor by Findusdwarf ([https://grabcad.com/library/cr-touch-dummy-1](url))
+      - 3D printer extruder by anderfogel on GrabCad ([https://grabcad.com/library/bmg-extruder-2](url))
+      - Ender 3 Parts from Creality3D ([https://github.com/Creality3DPrinting/Ender-3](url))
+      - Misc. parts from the solidworks tutorials and toolbox.
+  - All rights to these parts go to their respective owners.
