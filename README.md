@@ -8,6 +8,7 @@ An amalgamation of every single Solidworks part that I have ever designed or wor
 I created this assembly in my freshman year of high school as a way to test my assembly making skills and it has grown ever since. Any new parts that I create eventually end up somewhere in here, which has now resulted in an assembly over 1000 parts and a noticable performance impact to any computer it touches. At the time of writing this, it's my senior year in high school, so I figured that this assembly would be a great little addition to my capstone project list.
 
 ## Important notes:
+  - To open: There should be a folder called "assembly" in the included zip file. Open it, and the assembly file is inside. 
   - Make sure to disable "large assembly settings" or turn on the "shaded with edge" option by clicking on the little blue cube at the top for optimal viewing experience
   - This will probably slow down your computer. It's 1000 parts of chaos and everything is probably one bad mate away from just exploding.
   - This uses parts from the Solidworks toolbox and tutorial folders. These are just parts that came with the program, and them being in the assembly doesn't really neccesitate me using them at any point. As such, I have attached a "minimalist" version that contains only the parts that I have worked on.
